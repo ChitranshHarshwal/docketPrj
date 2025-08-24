@@ -138,7 +138,9 @@ celerybeat.pid
 .env
 .envrc
 .venv
+.dockerPrj
 env/
+/dockerPrj/
 venv/
 ENV/
 env.bak/
